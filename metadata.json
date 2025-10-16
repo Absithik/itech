@@ -1,0 +1,5 @@
+{
+  "name": "React eCommerce Store",
+  "description": "A full-featured eCommerce website frontend built with React, TypeScript, and Tailwind CSS. It includes product browsing, a shopping cart, and a mock admin panel for product management, all operating client-side.",
+  "requestFramePermissions": []
+}
